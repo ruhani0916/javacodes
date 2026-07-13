@@ -1,3 +1,4 @@
+package Day_1;
 public class SubarraysumequalsK {
     public static int subarraySum(int[] nums, int k) {
         int count = 0;
